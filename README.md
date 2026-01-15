@@ -9,7 +9,7 @@ This project analyzes e-commerce sales data using python and pandas to understan
 - Pandas
 - Matplotlib
 - Jupyter Notebook
-- 
+  
 ## Analysis Performed
 - Total sales and profit calculation
 - Top 5 best-selling products
